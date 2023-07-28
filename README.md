@@ -1,4 +1,4 @@
-# **Using Topic Modelling to Identifying Challenges Faced by Developers in Scientific Workflow Management Systems**
+# **Using Topic Modelling to Identify Challenges Developers Face When Working with Scientific Workflow Management Systems**
 
 ## Introduction
 
