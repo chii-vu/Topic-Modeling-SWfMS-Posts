@@ -1,8 +1,9 @@
 # **Using Topic Modelling to Identify Challenges Developers Face When Working with Scientific Workflow Management Systems**
+![Vu_Topic_Modelling_SWfMS](https://github.com/chii-vu/Topic-Modeling-SWfMS-Posts/assets/115325256/c5cd81dd-ac1c-4ade-a625-e64fc4d89914)
 
 ## Introduction
 
-This repository contains code and data for a project that utilizes topic modeling to identify challenges faced by developers in scientific workflow management systems. The project aims to gain insights into the common issues and difficulties that developers encounter while working with scientific workflow management systems. View research poster [here](Vu_Topic_Modelling_SWfMS_36x48.pdf).
+This repository contains code and data for a project that utilizes topic modeling to identify challenges faced by developers in scientific workflow management systems. The project aims to gain insights into the common issues and difficulties that developers encounter while working with scientific workflow management systems. [*View research poster*](Vu_Topic_Modelling_SWfMS_36x48.pdf).
 
 ## Overview
 
