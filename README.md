@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains code and data for a project that utilizes topic modeling to identify challenges faced by developers in scientific workflow management systems. The project aims to gain insights into the common issues and difficulties that developers encounter while working with scientific workflow management systems.
+This repository contains code and data for a project that utilizes topic modeling to identify challenges faced by developers in scientific workflow management systems. The project aims to gain insights into the common issues and difficulties that developers encounter while working with scientific workflow management systems. View research poster [here](Vu_Topic_Modelling_SWfMS_36x48.pdf).
 
 ## Overview
 
